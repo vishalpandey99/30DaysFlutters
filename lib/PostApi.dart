@@ -138,7 +138,7 @@ class Vishal extends StatelessWidget {
               ),
               ElevatedButton(
                 style: ElevatedButton.styleFrom(
-                  primary: Colors.black,
+                  backgroundColor: Colors.black,
                   minimumSize: const Size.fromHeight(50), // NEW
                 ),
                 onPressed: () {
